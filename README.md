@@ -1,0 +1,2 @@
+# IntentRosyid
+latihan intent kotlin
